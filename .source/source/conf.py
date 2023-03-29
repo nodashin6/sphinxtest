@@ -35,7 +35,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.mathjax',
     'sphinx.ext.githubpages',
-    'myst_parser', 
+    # 'myst_parser', 
     'helloworld',
 ]
 

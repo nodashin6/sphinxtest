@@ -11,7 +11,7 @@ Welcome to sphinxtest's documentation!
    :caption: Contents:
 
    hello
-
+   memo/index.rst
 
 Indices and tables
 ==================

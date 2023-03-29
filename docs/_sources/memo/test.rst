@@ -38,3 +38,11 @@ Python
       add two values
       """
       return x + y
+
+
+.. code-block:: python
+
+   >>> x = 1
+   >>> y = 2
+   >>> print(x + y)
+   # 3

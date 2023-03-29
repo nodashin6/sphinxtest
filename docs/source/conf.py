@@ -22,7 +22,7 @@ copyright = '2023, nodashin'
 author = 'nodashin'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0.0'
+release = ''
 
 
 # -- General configuration ---------------------------------------------------
@@ -33,6 +33,9 @@ release = '1.0.0'
 extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.doctest',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.githubpages',
+    # 'myst_parser', 
 ]
 
 # Add any paths that contain templates here, relative to this directory.

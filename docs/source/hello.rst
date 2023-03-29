@@ -7,5 +7,5 @@ hello
 
    :param n: repeat times
    :type n: int
-   :return: n times repeated "Hello" string
+   :return: "Hello" string repeated n times
    :rtype: str
